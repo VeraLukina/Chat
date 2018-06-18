@@ -1,0 +1,23 @@
+
+body{
+    color: #4B535C;
+    font:13px Arial, Helvetica, sans-serif;
+    padding-top:40px;
+    text-align: center;
+
+}
+
+.form-show{
+    position: fixed;
+    top: 88%;
+    padding-left: 555px;/* Поля вокруг текста */ 
+}
+.form-control{
+    width: 310px;
+}
+.show-container {
+    max-height: 470px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
